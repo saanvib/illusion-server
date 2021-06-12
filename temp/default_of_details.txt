@@ -1,0 +1,13 @@
+Input:/home/rishi_bhargava_gmail_com/OpenFace/samples/default.wmv
+Input full path:/home/rishi_bhargava_gmail_com/OpenFace/samples/default.wmv
+Camera parameters:500,500,320,240
+Output HOG:default.hog
+Output video:default.avi
+Output aligned directory:default_aligned
+Output csv:default.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
